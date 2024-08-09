@@ -48,7 +48,7 @@ customize your project for almost any device – be it Mobile, Web or WebApp –
 ## Versions
 
 * [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
-* [Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
+* [Angular Admin Template](https://github.com/coreui/angular-flutter-template)
 * [CoreUI Free React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
 * [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
 
@@ -72,8 +72,8 @@ customize your project for almost any device – be it Mobile, Web or WebApp –
 
 ## Quick Start
 
-- [Download the latest release](https://github.com/coreui/coreui-free-angular-admin-template/)
-- Clone the repo: `git clone https://github.com/coreui/coreui-free-angular-admin-template.git`
+- [Download the latest release](https://github.com/coreui/angular-flutter-template/)
+- Clone the repo: `git clone https://github.com/coreui/angular-flutter-template.git`
 
 #### <i>Prerequisites</i>
 
@@ -125,7 +125,7 @@ Within the download you'll find the following directories and files, logically g
 You'll see something like this:
 
 ```
-coreui-free-angular-admin-template
+angular-flutter-template
 ├── src/                         # project root
 │   ├── app/                     # main app directory
 |   │   ├── icons/               # icons set for the app
@@ -156,7 +156,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 For transparency into our release cycle and in striving to maintain backward compatibility, CoreUI Free Admin Template is maintained
 under [the Semantic Versioning guidelines](http://semver.org/).
 
-See [the Releases section of our project](https://github.com/coreui/coreui-free-angular-admin-template/releases) for changelogs for each release version.
+See [the Releases section of our project](https://github.com/coreui/angular-flutter-template/releases) for changelogs for each release version.
 
 ## Development server
 
