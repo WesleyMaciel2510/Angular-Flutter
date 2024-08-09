@@ -4,6 +4,7 @@ import { IconDirective } from '@coreui/icons-angular';
 import { ContainerComponent, RowComponent, ColComponent, CardGroupComponent, TextColorDirective, CardComponent, CardBodyComponent, FormDirective, InputGroupComponent, InputGroupTextDirective, FormControlDirective, ButtonDirective } from '@coreui/angular';
 import { AuthService } from '../../../../services/authentication';
 import { NgForm, FormsModule } from '@angular/forms';
+import { Router } from '@angular/router'; 
 import { Observable } from 'rxjs';
 
 @Component({
@@ -15,7 +16,7 @@ import { Observable } from 'rxjs';
 })
 export class LoginComponent {
 
-  constructor(private authService: AuthService) { }
+  constructor(private authService: AuthService, private router: Router) { }  // Inject Router
 
   onLogin(form: NgForm): void {
     if (form.valid) {
@@ -24,12 +25,14 @@ export class LoginComponent {
         (success) => {
           if (success) {
             console.log('Login successful');
+            this.router.navigate(['/dashboard']); 
           } else {
             console.log('Login failed');
           }
         },
         (error) => {
           console.error('An error occurred:', error);
+          window.alert('Login Failed'); 
         }
       );
     }

@@ -27,6 +27,7 @@ export class AuthService {
       }),
       catchError(error => {
         console.error('AuthService: error occurred', error);
+        window.alert('Login Failed');
         return throwError(error);
       })
     );
