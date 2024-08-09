@@ -1,25 +1,10 @@
-[![@coreui angular](https://img.shields.io/badge/@coreui%20-angular-lightgrey.svg?style=flat-square)](https://github.com/coreui/angular)
-[![npm-coreui-angular][npm-coreui-angular-badge]][npm-coreui-angular]
-[![npm-coreui-angular][npm-coreui-angular-badge-next]][npm-coreui-angular]
-[![NPM downloads][npm-coreui-angular-download]][npm-coreui-angular]  
-[![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
-[![npm package][npm-coreui-badge]][npm-coreui]
-[![NPM downloads][npm-coreui-download]][npm-coreui]  
-![angular](https://img.shields.io/badge/angular-^18.1.0-lightgrey.svg?style=flat-square&logo=angular)
+## 📱 Video
+<ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap;">
+  <li style="margin-right: 20px;">🌍 Demonstration to Prove that the Application was tested and it is working with the SpringBoot Server.</li>
 
-[npm-coreui-angular]: https://www.npmjs.com/package/@coreui/angular
+https://github.com/user-attachments/assets/55d28cc8-90cc-4b42-8726-245ad271551c
 
-[npm-coreui-angular-badge]: https://img.shields.io/npm/v/@coreui/angular.png?style=flat-square
-
-[npm-coreui-angular-badge-next]: https://img.shields.io/npm/v/@coreui/angular/next?style=flat-square&color=red
-
-[npm-coreui-angular-download]: https://img.shields.io/npm/dm/@coreui/angular.svg?style=flat-square
-
-[npm-coreui]: https://www.npmjs.com/package/@coreui/coreui
-
-[npm-coreui-badge]: https://img.shields.io/npm/v/@coreui/coreui.png?style=flat-square
-
-[npm-coreui-download]: https://img.shields.io/npm/dm/@coreui/coreui.svg?style=flat-square
+</ul>
 
 # CoreUI Free Admin Dashboard Template for Angular 18
 
